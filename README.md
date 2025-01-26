@@ -30,11 +30,7 @@ The python script is designed to extract and process text content from various f
 
 ## Requirements
 
-<<<<<<< HEAD
     pip install beautifulsoup4 python-docx PyPDF2 requests
-=======
-    pip install beautifulsoup4 python-docx PyPDF2 requests
->>>>>>> a04ac9c7293ffd87900d7441e1652ecd448c2393
 
 
 ## Clone the Repository
