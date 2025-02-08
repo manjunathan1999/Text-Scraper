@@ -28,15 +28,15 @@ The python script is designed to extract and process text content from various f
 
     The class-based design allows easy integration and extensibility for additional file formats or scraping methods.
 
-## Requirements
-
-    pip install beautifulsoup4 python-docx PyPDF2 requests
-
-
 ## Clone the Repository
 
     git clone https://github.com/manjunathan1999/Text-Scraper.git
     cd Text-Scraper
+
+## Requirements
+
+    pip install beautifulsoup4 python-docx PyPDF2 requests
+
 
 ## Error Handling
 
